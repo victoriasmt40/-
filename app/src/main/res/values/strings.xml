@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Singing Bowl Tuner</string>
+    <string name="stability_stable">Тон стабилен</string>
+    <string name="stability_unstable">Поиск тона...</string>
+</resources>

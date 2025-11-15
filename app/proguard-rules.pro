@@ -1,0 +1,4 @@
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in C:\Users\user\AppData\Local\Android\Sdk\tools\proguard\proguard-android.txt
+# You can edit that file to add flags that are common to all your projects
